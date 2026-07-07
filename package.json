@@ -1,0 +1,13 @@
+{
+  "name": "hyper-dht-prometheus-docker",
+  "version": "0.0.0",
+  "description": "Docker build and publish for hyper-dht-prometheus",
+  "private": true,
+  "dependencies": {
+    "hyper-dht-prometheus": "^2.1.0"
+  },
+  "optionalDependencies": {
+    "bare-runtime-linux-arm64": "^1.30.3",
+    "bare-runtime-linux-x64": "^1.30.3"
+  }
+}
