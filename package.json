@@ -1,10 +1,10 @@
 {
-  "name": "hyper-dht-prometheus-docker",
+  "name": "hyperdht-prometheus-docker",
   "version": "0.2.0",
-  "description": "Docker build and publish for hyper-dht-prometheus",
+  "description": "Docker build and publish for hyperdht-prometheus",
   "private": true,
   "dependencies": {
-    "hyper-dht-prometheus": "^2.1.0"
+    "hyperdht-prometheus": "^2.1.0"
   },
   "optionalDependencies": {
     "bare-runtime-linux-arm64": "^1.30.3",
