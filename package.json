@@ -1,6 +1,6 @@
 {
   "name": "hyperdht-prometheus-bridge-docker",
-  "version": "0.2.0",
+  "version": "2.1.1-r1",
   "description": "Docker build and publish for hyperdht-prometheus-bridge",
   "private": true,
   "dependencies": {
